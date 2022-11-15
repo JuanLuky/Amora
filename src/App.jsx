@@ -1,5 +1,5 @@
 import './styles/global.css'
-import Amora from './image/amora.jpeg';
+import Amora from './image/ag.png';
 
 export function App() {
   return (
@@ -8,12 +8,12 @@ export function App() {
         <img src={Amora}/>
       </div>
 
-      <strong>Amora</strong>
-      <p>Gosta de Girassol</p>
-      <p>Mãe da Helô</p>
-      <p>Futura esposa do @Juan</p>
+      <strong>Rhayane Falcão</strong>
+      <p>Gosta de Ovo com orégano</p>
+      <p>Curte Harry Potter</p>
+      <p>Parabéns 🥳</p>
 
-      <a href="https://www.instagram.com/barretomih_/">Siga-me</a>
+      <a href="https://www.instagram.com/indx_rh/">Siga-me</a>
     </div>
   )
 }
