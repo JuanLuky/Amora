@@ -11,7 +11,8 @@ export function App() {
       <strong>Rhayane Falcão</strong>
       <p>Gosta de Ovo com orégano</p>
       <p>Curte Harry Potter</p>
-      <p>Parabéns 🥳</p>
+      <p>É uma pessoa incrível</p>
+      <p className='happy'>Parabéns 🥳</p>
 
       <a href="https://www.instagram.com/indx_rh/">Siga-me</a>
     </div>
